@@ -19,13 +19,13 @@ afin de gagner des part sur la marché face à ses conccurents.
   - Un bâtiment est soit une maison (résidentiel) soit du petit tertiaire (un bâtiment comme le   Campus Ynov)
   - Il doit être possible de contrôler un bâtiment avec ou sans connection internet
   - Le système doit pouvoir réagir, en plus des capteurs, à des événement extérieurs :
-    - géolocalisation du téléphone
-    - météo
+    - Géolocalisation du téléphone
+    - Météo
 
 Le client veut stocker dans le cloud toutes les données des bâtiments de ses clients afin de : 
-  - permettre une restauration du système domotique en cas de crash
-  - faire des statistiques d'usage
-  - proposer des scénarios automatiques en s'appuyant sur du deep learning
-  - revendre des données consolidées à ses partenaires
+  - Permettre une restauration du système domotique en cas de crash
+  - Faire des statistiques d'usage
+  - Proposer des scénarios automatiques en s'appuyant sur du deep learning
+  - Revendre des données consolidées à ses partenaires
 
 Sans oublier l'interfacage de la solution avec les concurrents du marché.
